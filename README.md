@@ -1,6 +1,8 @@
 # Projet NSI : Jeu de Plateforme
 
-Bienvenue dans mon projet de fin d'année de **NSI (Numérique et Sciences Informatiques)**. Il s'agit d'un jeu de plateforme développé entièrement en Python.
+Bienvenue dans mon projet de fin d'année de **NSI (Numérique et Sciences Informatiques)**. Il s'agit d'un jeu de plateforme développé entièrement en Python. 
+
+### Windows Uniquement
 
 ## Comment jouer ?
 1. Allez dans l'onglet **[Releases](https://github.com/im-midnight/Mario_Maker-Python/releases/tag/v1.0)** sur GitHub.
